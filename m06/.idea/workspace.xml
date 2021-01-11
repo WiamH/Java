@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6995a035-37f8-42bb-b62e-97245b11b70d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/jobs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jobs/application/JobsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jobs/application/PaymentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jobs/domain/AbsStaffMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jobs/domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jobs/domain/IPaymentRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jobs/domain/Volunteer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jobs/persistence/AbsStaffMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jobs/persistence/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/DataValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/EmptyFieldException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/ServiceUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/ServiceVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/UserVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/Video.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1mlZlFXoZlUHgUlgQskRhrSP0qv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/jobs/persistence" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wiamh\OneDrive\Documentos\ASIX\barcelona activa\it academy\git.exercici\backend-JAVA\modulos\m06\src\com\jobs\persistence" />
+      <recent name="C:\Users\wiamh\OneDrive\Documentos\ASIX\barcelona activa\it academy\git.exercici\backend-JAVA\modulos\m06\src\com\jobs\domain" />
+      <recent name="C:\Users\wiamh\OneDrive\Documentos\ASIX\barcelona activa\it academy\git.exercici\backend-JAVA\modulos\m06\src\com\jobs\application" />
+      <recent name="C:\Users\wiamh\OneDrive\Documentos\ASIX\barcelona activa\it academy\git.exercici\backend-JAVA\modulos\m06\src\com\jobs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jobs.Main" />
+      <module name="m06" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6995a035-37f8-42bb-b62e-97245b11b70d" name="Default Changelist" comment="" />
+      <created>1610070287801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610070287801</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="746" height="223" key="GridCell.Tab.0.bottom" timestamp="1610072113102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="746" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1610072113102" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610070844136" />
+    <state width="746" height="223" key="GridCell.Tab.0.center" timestamp="1610072113102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="746" height="223" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1610072113102" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610070844136" />
+    <state width="746" height="223" key="GridCell.Tab.0.left" timestamp="1610072113102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="746" height="223" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1610072113102" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610070844136" />
+    <state width="746" height="223" key="GridCell.Tab.0.right" timestamp="1610072113102">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="746" height="223" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1610072113102" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1610070844136" />
+  </component>
+</project>
