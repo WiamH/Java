@@ -1,0 +1,181 @@
+/*Estilo general*/
+body{
+    background: url(restaurante.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family:'Trebuchet MS', sans-serif;
+    padding: 20%;
+    padding-top: 0px;
+    color: #41295a;
+  }
+
+
+  h1{
+      font-size: 50px;
+      font-style: oblique;
+      font: bold;
+      font-variant-caps: all-petite-caps;
+      background: -webkit-linear-gradient(#41295a, #ee0979,#FDB99B, #ff6a00);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+     }
+
+     h2{
+         color: #41295a;
+     }
+
+     .main {
+        display: block;
+     }
+
+     .crear, .ver, .pedido {
+        display: none;
+     }
+
+     #menu {
+        padding: 10%
+        top-margin: 25px;
+     }
+
+/*Estilo botones*/
+     button{
+         background: none;
+         color: #41295a;
+         width: 240px;
+         height: 80px;
+         border: 1px solid #ee0979;
+         font-size: 18px;
+         border-radius: 4px;
+         transition: .6s;
+         overflow: hidden;
+     }
+
+     button:focus {
+         outline: none;
+     }
+
+     button:before {
+         content: '';
+         display: block;
+         position: absolute;
+         background: rgba(255, 255, 255, .5);
+         width: 60px;
+         height: 100%;
+         left: 0;
+         top: 0;
+         opacity: .5s;
+         filter: blur(30px);
+         transform: translateX(-130px) skew(-15deg);
+     }
+
+     button:after {
+         content:'';
+         display: block;
+         position: absolute;
+         background: rgba(255, 255, 255, .2);
+         width: 30px;
+         height: 100%;
+         left: 30px;
+         top: 0;
+         opacity: 0;
+         filter: blur(30px);
+         transform: translate(-100px) scaleX(-15deg);
+     }
+
+     button:hover {
+         background: #FDB99B;
+         cursor: pointer;
+     }
+
+     button:hover:before {
+         transform: rotateX(300px) skew(-15deg);
+         opacity: .6;
+         transition: .7s;
+     }
+
+     button:hover:after {
+        transform: rotateX(300px) skew(-15deg);
+        opacity: 1;
+        transition: .7s;
+    }
+
+    .volver {
+        background-color: #e9e287;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        margin: 70px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        transition-duration: 0.4s;
+      }
+      
+      .volver:hover {
+        background-color: #f85103;
+        color: white;
+      }
+
+      #fin {
+        background-color: #03f803;
+        color: red;
+        border: 0;
+      }
+
+/*Espacio para escribir*/
+    #nombrePlato {
+        width: 240px;
+        height: 50px;
+        background-color: transparent;
+        font-size: 18px;
+        border: 0.5px solid #ccc;
+    }
+
+    #precioPlato {
+        width: 240px;
+        height: 50px;
+        background-color: transparent;
+        font-size: 18px;
+        border: 0.5px solid #ccc;
+    }
+
+/*Seleccionar objeto*/
+#seleccionarPlato {
+    width: 240px;
+    height: 50px;
+    background-color: transparent;
+    font-size: 18px;
+    border: 0.5px solid #ccc;
+}
+
+/*Estilo precio final*/
+#cuentaFinal {
+    font-size: 28px;
+    color: red;
+}
+
+/*Estilo footer*/
+.pie {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #FDB99B;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#wrap {
+    padding-bottom: 2rem;
+  }
+
+/*Adaptar estilo a los dispositivos
+/*Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+/*Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { }*/

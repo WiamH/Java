@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2d94719-ed73-4a3c-a345-1f7e475d3ae1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../m06/src/com/jobs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m06/src/com/jobs/application/JobsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m06/src/com/jobs/application/PaymentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m06/src/com/jobs/domain/AbsStaffMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m06/src/com/jobs/domain/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m06/src/com/jobs/domain/IPaymentRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m06/src/com/jobs/domain/Volunteer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m06/src/com/jobs/persistence/AbsStaffMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m06/src/com/jobs/persistence/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/DataValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/EmptyFieldException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/ServiceUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/ServiceVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/Tag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/UserVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m07/src/com/videos/proyecto/Video.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jm3TqvhMZnuYhI8Hvc3pQBgS5u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.M4F1">
+    <configuration name="F1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m04.M4.F1" />
+      <module name="m04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="m04.M4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M4F1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="m04.M4.M4F1" />
+      <module name="m04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="m04.M4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.M4F1" />
+        <item itemvalue="Application.F1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2d94719-ed73-4a3c-a345-1f7e475d3ae1" name="Default Changelist" comment="" />
+      <created>1604395455771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604395455771</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="220" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609838669273">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="512" y="220" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1609838669273" />
+    <state x="2560" y="275" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1609838256560" />
+    <state width="671" height="208" key="GridCell.Tab.0.bottom" timestamp="1605143718130">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1605039685924" />
+    <state width="916" height="290" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605003315680" />
+    <state width="671" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605143718130" />
+    <state width="671" height="208" key="GridCell.Tab.0.center" timestamp="1605143718130">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1605039685924" />
+    <state width="916" height="290" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605003315680" />
+    <state width="671" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605143718130" />
+    <state width="671" height="208" key="GridCell.Tab.0.left" timestamp="1605143718130">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1605039685923" />
+    <state width="916" height="290" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605003315680" />
+    <state width="671" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605143718130" />
+    <state width="671" height="208" key="GridCell.Tab.0.right" timestamp="1605143718130">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1605039685924" />
+    <state width="916" height="290" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605003315680" />
+    <state width="671" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605143718130" />
+  </component>
+</project>

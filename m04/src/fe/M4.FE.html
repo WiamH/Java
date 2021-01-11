@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>RESTAURANTE</title>
+        <script src="FE.M4.js" defer></script>
+        <link rel="stylesheet" href="FE.M4.css">
+    </head>
+
+    <body>
+        <h1> RESTAURANTE MARAVILLAS</h1>
+
+        <div class="container">
+            <!--MENU PRINCIPAL-->
+            <div class="main">
+                <h2>Menú principal - selecciona una opción:</h2>
+                <br>
+                <br>
+                <button onclick="IrACrear()" class="button">1.-Crear Carta</button>
+                <br>
+                <br>
+                <button onclick="IrAVer()" class="button">2.-Ver carta</button>
+                <br>
+                <br>
+                <button onclick="IrAPedido()" class="button">3.-Pedir</button>    
+            </div>
+            
+            <!-- CREAR CARTA RESTAURANTE-->
+            <div class="crear">
+
+                <div>
+                    <h2>1.-Crear carta</h2>
+                    <br>
+                    <input type="text" id="nombrePlato" placeholder="Insertar nombre de Plato"></input>
+                    <br>
+                    <input type="number" id="precioPlato" placeholder="Insertar precio plato"></input>
+                    <br>
+                </div>
+        
+                <div>
+                    <br>
+                    <button onClick="guardarPlato()">Guardar Plato</button>
+                    <br>
+                    <br>
+                </div>
+        
+                <div>
+                    <input type="button" onclick="IrAInicio()" name="volver atrás" value="volver atrás" class="volver">
+                </div>
+
+            </div>
+            
+            <!-- VER CARTA RESTAURANTE-->
+            <div class="ver">
+
+                <div>
+                    <h2>2.-Platos del día</h2>
+                    <br>
+                </div>
+                
+                <div>
+                    <br>
+                    <button onClick="verCarta()">Ver carta completa</button>
+                    <br>
+                    <input type="button" onclick="IrAInicio()" name="volver atrás" value="volver atrás" class="volver">
+                   
+                    <div id="menu"></div>
+                </div>
+                    
+            </div>
+
+            <!-- REALIZAR PEDIDO-->
+            <div class="pedido">
+                <div id="pedido">
+                    <h2>3.-Realizar pedido</h2>
+                    <a>Selecciona un plato de la lista:</a>
+                </div>
+        
+                <div>
+                    <select id="seleccionarPlato" name="listaPedido"></select>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <button  onClick="anyadirPedido()" >Pedir</button>
+                </div>
+        
+                <div>
+                    
+                    <br>
+                    <br>
+                    <button id="fin" onClick="acabarPedido()" >Finalizar pedido</button>
+                    <br>
+                    <div id="cuentaFinal"></div>
+                    <br>
+                    <input type="button" onclick="IrAInicio()" name="volver atrás" value="volver atrás" class="volver">
+                </div>
+
+            </div>
+
+        </div>
+
+
+
+    </body>
+
+    <div class="pie">
+        <footer id="wrap">
+            Copyright &copy; RESTAURANTE MARAVILLAS 2020 - By WiamH
+        </footer>
+    </div>
+
+</html>
